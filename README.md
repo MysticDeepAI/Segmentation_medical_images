@@ -3,4 +3,8 @@ This repository seeks to compare different deep learning models to perform the s
 
 If you have any questions regarding the work, you could contact me at: gacorrales@uao.edu.co
 
+You can download the SAM characters from here:
+(sam_vit_b_01ec64.pth)[https://www.dropbox.com/scl/fi/9r90jmxqqu1jbsyxy6fr3/sam_vit_b_01ec64.pth?rlkey=to1ppb9n9l49gjyuqwywif6x9&dl=0]
+(vit_DSB.pth)[https://www.dropbox.com/scl/fi/d8s4qd7fomld6nij9x0om/vit_DSB.pth?rlkey=y3hkw112mbd4yw2cmpyrk3fc1&dl=0]
+
 🔧 Note: the repository is still being improved
